@@ -1,4 +1,4 @@
-# <img src="assets\app_icon" alt="icon" width=60>  CineMe
+# <img src="https://github.com/fares-q44/CineMe/blob/main/assets/app_icon/Icon-512.png" alt="icon" width=60>  CineMe
 
 
 
