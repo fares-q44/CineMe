@@ -33,14 +33,14 @@ CineMe gets its source of movies information from TMDB, By utilizing their [API]
 - Optimised storage using minimal packages
 
 ## Screenshots
-| <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/1.jpeg" width="250"> |<img src="screenshots/2.jpeg" width="250"> |  <img src="screenshots/5.jpeg" width="250"> |
+| <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/1.jpeg" width="250"> |<img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/2.jpeg" width="250"> |  <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/5.jpeg" width="250"> |
 |:------------:|:------------:| :------------:|
 | Authentication |Explore | Movie Detail
 
-| <img src="screenshots/4.jpeg" width="250"> |  <img src="screenshots/7.jpeg" width="250"> |<img src="screenshots/6.jpeg" width="250"> |  
+| <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/4.jpeg" width="250"> |  <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/7.jpeg" width="250"> |<img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/6.jpeg" width="250"> |  
 |:------------:|:------------:| :------------:|
 |Search | Watchlist |More movie detail 
-| <img src="screenshots/3.jpeg" width="250"> |
+| <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/3.jpeg" width="250"> |
 
 
 
