@@ -1,4 +1,4 @@
-# <img src="\assets\app_icon" alt="icon" width=60>  CineMe
+# <img src="assets\app_icon" alt="icon" width=60>  CineMe
 
 
 
