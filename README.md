@@ -33,7 +33,7 @@ CineMe gets its source of movies information from TMDB, By utilizing their [API]
 - Optimised storage using minimal packages
 
 ## Screenshots
-| <img src="CineMe/assets/Screenshots/1.jpeg" width="250"> |<img src="screenshots/2.jpeg" width="250"> |  <img src="screenshots/5.jpeg" width="250"> |
+| <img src="https://github.com/fares-q44/CineMe/blob/main/assets/Screenshots/1.jpeg" width="250"> |<img src="screenshots/2.jpeg" width="250"> |  <img src="screenshots/5.jpeg" width="250"> |
 |:------------:|:------------:| :------------:|
 | Authentication |Explore | Movie Detail
 
